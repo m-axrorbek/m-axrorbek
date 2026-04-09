@@ -16,4 +16,5 @@ O‘zbekistonlik frontend dasturchi 🇺🇿
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40"/></a>
 
 📫 Email: mahammadovaxrorbek@gmail.com  
-💬 Telegram: @mahammadov_a
+💬 Telegram: <img width="1281" height="1488" alt="image" src="https://github.com/user-attachments/assets/3d140600-fea2-452c-94e8-895772ff9004" />
+
