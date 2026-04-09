@@ -1,4 +1,4 @@
-<h1 align="center">Axrorbek 👋</h1>
+<h1 align="center"> Hi 👋, I'm Axrorbek Mahammadov </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Clean+UI+Builder" />
