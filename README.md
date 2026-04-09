@@ -1,11 +1,70 @@
-<h1 align="center">Hi 👋, I'm Axrorbek Mahammadov</h1>
-<h3 align="center">Frontend Developer from Uzbekistan 🇺🇿 — I build modern, fast and scalable web applications</h3>
+<h1 align="center">Salom 👋, men Axrorbek</h1>
+<h3 align="center">Frontend Developer | React • Tailwind • Zamonaviy UI</h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  O‘zbekistonlik frontend dasturchi 🇺🇿 <br/>
+  Zamonaviy, tezkor va toza arxitekturali web ilovalar yarataman
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Men haqimda
+
+- 🌱 Hozirda: **React, Advanced UI, Architecture**
+- 🧠 Qiziqishlarim: **Performance, Clean Code, UX**
+- 💬 Mendan so‘rang: **React, Zustand, Tailwind, UI dizayn**
+- 🎯 Maqsad: **Real loyihalarda kuchli frontend developer bo‘lish**
+
+---
+
+## 🛠️ Texnologiyalar
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,git,github,vite" />
+</p>
+
+---
+
+## 📂 Loyihalarim
+
+- 🔗 GitHub: https://github.com/username
+
+---
+
+## 🤝 Hamkorlik
+
+Men quyidagi yo‘nalishlarda hamkorlikka ochiqman:
+
+- AI asosidagi loyihalar
+- SaaS dashboardlar
+- Frontend web ilovalar
+
+---
+
+## 🆘 Yordam izlayman
+
+- Frontend arxitektura (scalable project)
+- Real loyiha strukturasini to‘g‘ri qurish
+- Performance optimizatsiya
+
+---
+
+## 📫 Aloqa
+
+- 📧 Email: **mahammadovaxrorbek@gmail.com**
+- 📱 Telegram: **@mahammadov_a**
+
+---
+
+## ⚡ Fun fact
+
+> Murakkab narsalarni oddiy va chiroyli UI ga aylantirishni yaxshi ko‘raman 😎
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" />
+</p>
