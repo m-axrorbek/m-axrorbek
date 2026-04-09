@@ -21,19 +21,19 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://react.dev" target="_blank" style="margin:2px;">
+  <a href="https://react.dev" target="_blank" style="margin:4px;">
     <img src="https://skillicons.dev/icons?i=react" height="48"
       style="transition: transform 0.2s;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin:2px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin:4px;">
     <img src="https://skillicons.dev/icons?i=js" height="48"
       style="transition: transform 0.2s;"/>
   </a>
-  <a href="https://tailwindcss.com" target="_blank" style="margin:2px;">
+  <a href="https://tailwindcss.com" target="_blank" style="margin:4px;">
     <img src="https://skillicons.dev/icons?i=tailwind" height="48"
       style="transition: transform 0.2s;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin:2px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin:4px;">
     <img src="https://skillicons.dev/icons?i=html" height="48"
       style="transition: transform 0.2s;"/>
   </a>
