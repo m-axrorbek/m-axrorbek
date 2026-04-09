@@ -3,24 +3,23 @@
 
 <p align="center">
   O‘zbekistonlik frontend dasturchi 🇺🇿 <br/>
-  Zamonaviy, tezkor va toza arxitekturali web ilovalar yarataman
+  Zamonaviy, tezkor va toza web ilovalar yarataman
 </p>
 
 ---
 
 ## 🚀 Men haqimda
 
-- 🌱 Hozirda: **React, Advanced UI, Architecture**
-- 🧠 Qiziqishlarim: **Performance, Clean Code, UX**
-- 💬 Mendan so‘rang: **React, Zustand, Tailwind, UI dizayn**
-- 🎯 Maqsad: **Real loyihalarda kuchli frontend developer bo‘lish**
+- 🌱 Hozirda: **React, Advanced UI**
+- 💬 Mendan so‘rang: **React, Tailwind, UI dizayn**
+- 🎯 Maqsad: **Kuchli frontend developer bo‘lish**
 
 ---
 
 ## 🛠️ Texnologiyalar
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=react,github,bash" />
 </p>
 
 ---
@@ -35,17 +34,15 @@
 
 Men quyidagi yo‘nalishlarda hamkorlikka ochiqman:
 
-- AI asosidagi loyihalar
-- SaaS dashboardlar
 - Frontend web ilovalar
+- SaaS dashboardlar
 
 ---
 
 ## 🆘 Yordam izlayman
 
-- Frontend arxitektura (scalable project)
+- Frontend arxitektura
 - Real loyiha strukturasini to‘g‘ri qurish
-- Performance optimizatsiya
 
 ---
 
@@ -59,12 +56,3 @@ Men quyidagi yo‘nalishlarda hamkorlikka ochiqman:
 ## ⚡ Fun fact
 
 > Murakkab narsalarni oddiy va chiroyli UI ga aylantirishni yaxshi ko‘raman 😎
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" />
-</p>
