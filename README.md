@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;Clean+UI+Builder" />
 
-O‘zbekistonlik frontend dasturchi 🇺🇿
+Frontend developer from Uzbekistan 🇺🇿
 
-⚡ React va Tailwind bilan web ilovalar yarataman  
-🎨 Toza va chiroyli UI qilishni yoqtiraman  
-🚀 Doim o‘rganishda davom etaman  
+⚡ I build web applications using React and Tailwind  
+🎨 I enjoy creating clean and beautiful UI  
+🚀 Always learning and improving  
 
 ## 🛠️ Tech Stack
 
@@ -17,4 +17,3 @@ O‘zbekistonlik frontend dasturchi 🇺🇿
 
 📫 Email: mahammadovaxrorbek@gmail.com  
 💬 Telegram: @mahammadov_a
-
