@@ -26,7 +26,7 @@
 
 ## 📂 Loyihalarim
 
-- 🔗 GitHub: https://github.com/username
+- 🔗 GitHub: https://github.com/m-axrorbek
 
 ---
 
