@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axrorbek Mahammadov</h1>
 <h3 align="center">Frontend Developer from Uzbekistan 🇺🇿 — I build modern, fast and scalable web applications</h3>
 
-- 🔭 I’m currently working on [Bilim Score](https://github.com/m-axrorbek/BilimScore)
 
-- 👯 I’m looking to collaborate on [AI-powered applications, SaaS dashboards and modern frontend projects](https://github.com/m-axrorbek/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/m-axrorbek](https://github.com/m-axrorbek)
-
-- 📝 I regularly write articles on [https://t.me/Mahammadov_projects](https://t.me/Mahammadov_projects)
-
-- 💬 Ask me about **React,Tailwind CSS, UI Architecture, Performance optimization**
-
-- 📫 How to reach me **Email : mahammadovaxrorbek@gmail.com |Telegram: @mahammadov_a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
