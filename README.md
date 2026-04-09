@@ -1,58 +1,23 @@
-<h1 align="center">Salom 👋, men Axrorbek</h1>
-<h3 align="center">Frontend Developer | React • Tailwind • Zamonaviy UI</h3>
+<h1 align="center">Axrorbek 👋</h1>
 
 <p align="center">
-  O‘zbekistonlik frontend dasturchi 🇺🇿 <br/>
-  Zamonaviy, tezkor va toza web ilovalar yarataman
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Clean+UI+Builder" />
+</p>
+
+<p align="center">
+  O‘zbekistonlik frontend dasturchi 🇺🇿
 </p>
 
 ---
 
-## 🚀 Men haqimda
-
-- 🌱 Hozirda: **React, Advanced UI**
-- 💬 Mendan so‘rang: **React, Tailwind, UI dizayn**
-- 🎯 Maqsad: **Kuchli frontend developer bo‘lish**
-
----
-
-## 🛠️ Texnologiyalar
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,github,bash" />
+<p align="center">
+  ⚡ React va Tailwind bilan web ilovalar yarataman <br/>
+  🎨 Toza va chiroyli UI qilishni yoqtiraman <br/>
+  🚀 Doim o‘rganishda davom etaman
 </p>
 
 ---
 
-## 📂 Loyihalarim
-
-- 🔗 GitHub: https://github.com/m-axrorbek
-
----
-
-## 🤝 Hamkorlik
-
-Men quyidagi yo‘nalishlarda hamkorlikka ochiqman:
-
-- Frontend web ilovalar
-- SaaS dashboardlar
-
----
-
-## 🆘 Yordam izlayman
-
-- Frontend arxitektura
-- Real loyiha strukturasini to‘g‘ri qurish
-
----
-
-## 📫 Aloqa
-
-- 📧 Email: **mahammadovaxrorbek@gmail.com**
-- 📱 Telegram: **@mahammadov_a**
-
----
-
-## ⚡ Fun fact
-
-> Murakkab narsalarni oddiy va chiroyli UI ga aylantirishni yaxshi ko‘raman 😎
+<p align="center">
+  📫 mahammadovaxrorbek@gmail.com
+</p>
